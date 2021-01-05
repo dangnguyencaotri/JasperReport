@@ -1,0 +1,8 @@
+https://o7planning.org/vi/10247/cai-dat-jaspersoft-studio-vao-eclipse#a44682
+https://o7planning.org/vi/10271/huong-dan-lap-trinh-bao-cao-jasperreport-cho-nguoi-moi-bat-dau#a27758
+https://o7planning.org/vi/10293/huong-dan-goi-bao-cao-jasperreport-trong-ung-dung-java#a103309
+https://o7planning.org/vi/10347/huong-dan-cai-dat-va-cau-hinh-database-oracle-12c#a385734
+https://o7planning.org/vi/11475/huong-dan-cai-dat-oracle-client-tren-windows
+https://o7planning.org/vi/10255/huong-dan-cai-dat-va-cau-hinh-pl-sql-developer#a20995
+https://www.youtube.com/watch?v=mqJJ_wsxGQw
+C:\DevPrograms\eclipse\eclipse-standard-luna-R-win32\eclipse
